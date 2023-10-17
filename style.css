@@ -8,6 +8,11 @@ body{
   color: #5c5757;
   line-height: 1.7em;
   margin: 0px;
+  max-width:1440px; 
+  height:100vh;
+  display:flex; 
+  align-items:center; 
+  justify-content:center;
 }
 .main{
   width: 600px;
